@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ProjectApp",
-    "slug": "ProjectApp",
+    "name": "Play your Vocabulary",
+    "slug": "PlayyourVocabulary",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.Playyour.Vocabulary",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -28,6 +30,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e45a4c93-dea5-46bf-8651-da260d52c938"
+      }
     }
   }
 }
