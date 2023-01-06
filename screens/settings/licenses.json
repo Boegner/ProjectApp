@@ -1,0 +1,50 @@
+{
+    "@react-native-async-storage/async-storage@1.17.10": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-async-storage/async-storage",
+        "licenseUrl": "https://github.com/react-native-async-storage/async-storage/raw/master/LICENSE",
+        "parents": "projectapp"
+    },
+    "@react-navigation/native-stack@6.9.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+        "parents": "projectapp"
+    },
+    "@react-navigation/native@6.0.13": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+        "parents": "projectapp"
+    },
+    "expo-status-bar@1.4.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "projectapp"
+    },
+    "expo@46.0.15": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "projectapp"
+    },
+    "react-native-paper@4.12.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/callstack/react-native-paper",
+        "licenseUrl": "https://github.com/callstack/react-native-paper/raw/master/LICENSE.md",
+        "parents": "projectapp"
+    },
+    "react-native@0.69.6": {
+        "licenses": "MIT",
+        "repository": "github:facebook/react-native",
+        "licenseUrl": "github:facebook/react-native",
+        "parents": "projectapp"
+    },
+    "react@18.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "projectapp"
+    }
+}
